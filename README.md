@@ -1,2 +1,2 @@
 # hello-world
-My first repository. How very exciting! Give me knowledge. 0 _ 0
+I love coding. The code gives me rush when it compiles and then runs smoothly. Work well done is pleasant.
